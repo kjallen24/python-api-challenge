@@ -1,0 +1,1 @@
+openweatherkey = "e1500607473acdb503b80fc5336ff69d"
